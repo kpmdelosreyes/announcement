@@ -1,0 +1,37 @@
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+																											INDEX.PHP ----> Front CSS 
+/*-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+/* Blue Template CSS */
+#pg_announce_blue_wrap * {margin:0;padding:0} 
+#pg_announce_blue_wrap {background:url(../images/pg_announce_bluebg.gif) no-repeat top;width:260px;font-size:12px;display:inline-block;font-family: tahoma, geneva, sans-serif;}
+#pg_announce_blue_wrap h4 {background:url(../images/pg_announce_bluebullet.jpg) no-repeat right;padding-left:10px;padding-right:10px;font-size:12px;font-family:tahoma, geneva, sans-serif;font-weight:bold;display:inline;color:#fff;height:34px;line-height:34px;}
+#pg_announce_blue_wrap .pg_announce_wrap1 {background:url(../images/pg_announce_bluebg.gif) no-repeat bottom;padding-bottom:17px !important;width:260px;display:inline-block;text-align:center}
+/* Blue Template CSS */
+
+/* Gray Template CSS */
+#pg_announce_gray_wrap * {margin:0;padding:0} 
+#pg_announce_gray_wrap {background:url(../images/pg_announce_graybg.gif) no-repeat top;width:260px;font-size:12px;display:inline-block;font-family: tahoma, geneva, sans-serif;}
+#pg_announce_gray_wrap h4 {background:url(../images/pg_announce_graybullet.gif) no-repeat right;padding-left:10px;padding-right:10px;font-size:12px;font-family:tahoma, geneva, sans-serif;font-weight:bold;display:inline;color:#fff;height:34px;line-height:34px;}
+#pg_announce_gray_wrap .pg_announce_wrap1 {background:url(../images/pg_announce_graybg.gif) no-repeat bottom;padding-bottom:17px !important;width:260px;display:inline-block;text-align:center}
+/* Gray Template CSS */
+
+/* Front Template Common Style */
+
+.pg_announcement_content1 {width:230px;margin-top:20px !important;padding-bottom:0 !important;display:inline-block;text-align:center}
+.pg_announce_subheader {font-weight:bold;color:#555;text-align:left;margin:15px 0 0 15px !important}
+.pg_announce_title, a:hover.pg_announce_title {font-weight:bold;color:#558de2;text-align:left;text-decoration:none}
+
+#pg_announce_accordion {width:230px;text-align:left;display:inline-block !important}
+#pg_announce_accordion li {margin-left: 0px;width:100%;float:left;display:inline-block;}
+#pg_announce_accordion li div p {font-size:12px;line-height:17px}
+
+#pg_announce_accordion li h3 a {height:auto;margin-top:0px !important;border:1px solid #ddd;margin-bottom:0px !important;background:#f0f0f0;display:inline-block;width:100%}
+#pg_announce_accordion li h3 a span {display:inline-block;background:url(../images/pg_announce_bullet.gif) no-repeat left 5px;margin:5px !important;padding-left:15px !important;width:190px;margin-left:10px !important;height:auto;line-height:17px;}
+
+.showHide {width:100%;display:inline-block;word-wrap:break-word;}
+#content_id {width:230px;margin-bottom:0px !important;padding:0 !important}
+.pg_announce_fix_this p {display:inline-block}
+#content_id p {border:1px solid #ddd !important;display:inline-block}
+
+/* time ago */
+.timeago {display:block;text-align:right;font-size:11px;font-family:arial, tahoma, sans-serif !important;color:#bfbfbf}

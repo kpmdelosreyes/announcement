@@ -1,0 +1,11 @@
+/* input buttons */
+input.btn01 {height:19px;line-height:14px;}
+a.btn01 {line-height:19px !important}
+
+/* pagination */
+.pagination li .num {display:inline-block;border:1px solid #c2c2c1;background:#e8e8e7;padding:1px 4px 2px;color:#777;text-decoration:none}
+.pagination li .num:hover, .pagination a.num:active {display:inline-block;color:#777;border:1px solid #c2c2c1;background:#fff}
+.pagination li .current {color:#fff;border:1px solid #2e689a;background:#3c7cb4;padding:1px 4px 2px;display:inline-block;}
+.pagination li .activity {color:#3c7cb4;margin:0 2px;padding:1px 4px 2px;display:inline-block}
+
+.comment {margin-top:20px;} 

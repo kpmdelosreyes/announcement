@@ -1,0 +1,1 @@
+SELECT pad_idx, pad_title,pad_content,pad_modified_date, pas_time FROM PG_Announcement_data, PG_Announcement_setting WHERE pad_pm_idx = '4' ORDER BY pad_modified_date DESC LIMIT  
